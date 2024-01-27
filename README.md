@@ -1,3 +1,10 @@
+![Uploading image.png…]()
+
+
+
+
+
+
 # Astro Starter Kit: Basics
 
 ```sh
